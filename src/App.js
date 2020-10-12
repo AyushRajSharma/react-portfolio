@@ -13,17 +13,17 @@ function App() {
    
         <Route
         exact = {true}
-        path="/"
+        path="/react-portfolio/"
         component={Home}
         />
         <Route
-            path="/about"
+            path="/react-portfolio/about"
             component={About}
             />
 
        
         <Route
-            path ="/contact"
+            path ="/react-portfolio/contact"
             component= {Contact}
           />
         
