@@ -14,7 +14,7 @@ class Home extends Component{
                  <Header
                  title="Welcome To Our Studio!"
                  subtitle="It's Nice To Meet You"
-                 link="/about"
+                 link="/react-portfolio/about"
                  buttontext="Know about me more"
                  image={image}
                  showButton={true}
